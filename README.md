@@ -10,6 +10,13 @@
 > 자율주행전문가교육(xyz아카데미) 팀 프로젝트  
 > 베이스: [storagy-simulation-system-docker](https://github.com/bluephysi01/storagy-simulation-system-docker) (Gazebo · Nav2 · YOLO · LLM · 웹 대시보드)
 
+## 이 포크에 대해
+
+- **Upstream:** [35194nadawon/AMR_firstTeam1](https://github.com/35194nadawon/AMR_firstTeam1)
+- **역할:** 팀원 기여 포크 (시뮬레이션·주행 안정화·문서)
+- **본인 기여 요약:** Nav2·Gazebo layout 동기화, 대시보드·LLM 주행 안정화, YOLO 오탐 완화, README 문서화
+- **후속(실로봇):** [AMR_firstTeam2](https://github.com/kim-kwanho/AMR_firstTeam2) — Storagy bringup
+
 ---
 
 ## 목차
